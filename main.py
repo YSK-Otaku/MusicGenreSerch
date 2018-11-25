@@ -1,6 +1,12 @@
 import librosa
+import glob
 
-x, fs = librosa.load('test01.wav', sr=44100)
-mfccs = librosa.feature.mfcc(x, sr=fs)
-print(mfccs.shape)
+def getmfcc(path):
+    x, fs = librosa.load(path, sr=44100)
+    mfccs = librosa.feature.mfcc(x, sr=fs)
+    print(mfccs.shape,path)
+
+file = glob.glob('*.wav')
+for f in file:
+ getmfcc(f)
 

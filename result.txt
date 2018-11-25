@@ -1,0 +1,17 @@
+(20, 10323) BTS.wav
+(20, 8238) SDS.wav
+(20, 20466) test01.wav
+(20, 18575) test02.wav
+(20, 22198) testIPR-AS.wav
+(20, 22198) testIPR-CG.wav
+(20, 22198) testIPR-ML.wav
+(20, 22199) testIPR-O.wav
+(20, 22255) eS.wav
+(20, 28597) HM.wav
+(20, 19748) SH.wav
+(20, 23991) aki.wav
+(20, 20618) goup.wav
+(20, 27762) Orionkotori.wav
+(20, 24355) WReli.wav
+(20, 24355) WRkotori.wav
+(20, 24310) WRumi.wav
